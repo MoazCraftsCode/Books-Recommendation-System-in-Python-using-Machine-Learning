@@ -1,0 +1,2 @@
+# Books-Recommendation-System-in-Pyhton-using-Machine-Learning
+This project implements a book recommendation system using Python and popular data science libraries such as numpy, pandas, matplotlib, seaborn, and scikit-learn. Leveraging data analysis, clustering algorithms, and ML techniques such as min-max scaling and k-nearest neighbors, the system provides personalized book recommendations to users.
